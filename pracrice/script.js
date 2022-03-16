@@ -1,0 +1,1 @@
+var names = ["john","simon","terry"]
